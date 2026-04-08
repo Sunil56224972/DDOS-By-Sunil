@@ -149,7 +149,7 @@ python main.py
 ## 🧑‍💻 Author
 
 ```yaml
-Name:     Emensta
+Name:     Sunil
 Role:     Developer / Network Enthusiast
 GitHub:   https://github.com/Sunil56224972
 ```
