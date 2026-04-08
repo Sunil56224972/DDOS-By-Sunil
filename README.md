@@ -109,13 +109,65 @@ python main.py
 
 ---
 
-## 🎮 Usage Flow
+## ▶️ Usage Guide (Step-by-Step)
+
+```diff
++ Quick Setup & Run Instructions
+```
+
+### 🪟 Windows
+
+```bash
+# Method 1 (CMD)
+cd path/to/project
+python main.py
+```
+
+```bash
+# Method 2 (Executable)
+Open WindowsVersion/
+Run DDoS-ByEmensta.exe
+```
+
+---
+
+### 🐧 Linux / Kali Linux
+
+```bash
+git clone https://github.com/Sunil56224972/your-repo-name.git
+cd your-repo-name
+python main.py
+```
+
+---
+
+## 🎮 Execution Flow
 
 ```text
+➤ Launch Script
 ➤ Enter Target IP / Domain
 ➤ Enter Port
-➤ Watch Real-Time Packet Flow 🚀
+➤ Watch Live Packet Simulation ⚡
 ```
+
+---
+
+<p align="center">
+  <a href="https://github.com/Sunil56224972">
+    <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Profile-00ffaa?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+## 📜 Original Instructions Reference
+
+> Imported and improved from the original guide
+
+* See full raw instructions here → 
+
+---
+
 
 ---
 
