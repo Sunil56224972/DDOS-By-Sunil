@@ -1,7 +1,7 @@
 <!-- 🔥 Animated Typing Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00FFAA&center=true&vCenter=true&width=900&lines=UDP+Traffic+Simulator;High-Speed+Network+Packet+Engine;CLI+Based+Load+Testing+Tool;Built+With+Pure+Python+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=FF0000&center=true&vCenter=true&width=900&lines=UDP+Traffic+Simulator;High-Speed+Network+Packet+Engine;CLI+Based+Load+Testing+Tool;Built+With+Pure+Python+⚡" />
 </p>
 
 ---
